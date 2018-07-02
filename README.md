@@ -1,2 +1,4 @@
 # hello-world
-first trip for Github
+first trip for Githu
+show list;
+
